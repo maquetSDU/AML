@@ -10,6 +10,7 @@ How to run?
 3) put datasets in the same folder with ipynb file
 4) delete 3 cells after import section: 
 5) delete
+
 from google.colab import drive
 drive.mount('/content/drive', force_remount = True)
 
