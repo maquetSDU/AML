@@ -12,6 +12,7 @@ How to run?
 5) delete
 
 from google.colab import drive
+
 drive.mount('/content/drive', force_remount = True)
 
 df_tr = pd.read_csv('/content/drive/MyDrive/assignment_2/data_transaction.csv')
