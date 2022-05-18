@@ -1,5 +1,6 @@
 # AML
 Assignment 2
+topic: Autoencoder and types
 
 requirements: pip install -r requirements.txt
 
